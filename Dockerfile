@@ -1,4 +1,4 @@
 FROM ubuntu
 
-RUN mkdir project-files
+RUN mkdir projectfiles
 
